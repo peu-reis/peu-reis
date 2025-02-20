@@ -10,12 +10,12 @@ My hobbies include music, digital art, and gaming. I enjoy developing small proj
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0e768a)](https://www.linkedin.com/in/preisteixeira/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0e768a)](https://github.com/Boca3l)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=0e768a)](https://github.com/peu-reis)
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0e768a)](https://www.instagram.com/peu_h/)
 
 
 ## 📊 Github Stats:
-![BrennoAzvd's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boca3l&show_icons=true&theme=dracula&hide_title=true)
+![BrennoAzvd's GitHub stats](https://github-readme-stats.vercel.app/api?username=peu-reis&show_icons=true&theme=dracula&hide_title=true)
 
 ## 🚀 Top Stacks:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boca3l&layout=compact&theme=dracula&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peu-reis&layout=compact&theme=dracula&hide_title=true)
